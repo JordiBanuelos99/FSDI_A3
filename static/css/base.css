@@ -1,5 +1,6 @@
 h1 {
-    color: red;
+    color: white;
+    text-align: center;
 }
 
 p>input,
@@ -10,9 +11,12 @@ form>input {
     margin: 5px;
     border-radius: 5px;
     font-size: 18px;
+    background-color: rgb(17, 17, 17);
+    color: white;
 }
 
 p>label {
     font-size: 18px;
-    color: darkgreen;
+    color: white;
+    font-weight: bold;
 }
